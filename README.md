@@ -1,3 +1,3 @@
 # Demo
 
-https://zallmaycry.github.io/malam/
+https://zallmaycry.github.io/night/
